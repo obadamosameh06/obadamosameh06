@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm obada mosameh from jordan<br><br>- 🔭 I’m working as dotnet developer</p>
+<p align="left">I'm obada mosameh <br><br>- 🔭 I’m working as dotnet developer</p>
 
 ###
 
